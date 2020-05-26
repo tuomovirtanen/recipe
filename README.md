@@ -1,5 +1,8 @@
 
 # Guacamole recipe
 
-Used in teaching git.
-Remember to enjoy!
+This is a recipe for guacamole
+Used in teaching git
+
+
+
