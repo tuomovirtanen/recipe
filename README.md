@@ -3,6 +3,7 @@
 
 This is a recipe for guacamole
 Used in teaching git
+Remember to enjoy!
 
 
 
